@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+#gameBoard {
+  border: 2px solid black;
+}
+#scoreText {
+  font-size: 50px;
+  font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+}
+button {
+  margin: 5px;
+  font-family: "Consolas", "Courier New", monospace;
+  color: white;
+  background-color: rgb(96, 190, 248);
+  font-family: Courier, monospace;
+  border: none;
+  font-size: medium;
+  padding: 6px;
+}
